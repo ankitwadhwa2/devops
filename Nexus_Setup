@@ -111,8 +111,15 @@ user name is admin and password can be found by executing below command:
 
 sudo cat /opt/sonatype-work/nexus3/admin.password
 
-
-
-
 Copy the password and click sign in.
-Now setup admin password as admin123
+Now setup admin password as ankitsg
+
+create repo with name maven_nexus
+
+create user
+jenkins-user
+passwor
+jenkins-user
+user-credentials created in jenkins with same details 
+user - jenkins-user
+pwd - jenkins-user
